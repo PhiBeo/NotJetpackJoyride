@@ -5,7 +5,7 @@ Contribute to the project:
 - Leaderboard system
 - Local save and load system
 
-===========================================================
+========================================================================
 How are they implemented:
 
 Simple profile:
@@ -29,7 +29,7 @@ Local save and load system:
 - It will be saved to the default path for different OS
 - This will be inititalize everytime the game start to load the datas that been saved before
 
-============================================================
+========================================================================
 Challenges encounter:
 - Learn how Unity Cloud work and how to request and store datas being send back
 - Need to get a little more familiar with aysnc since I personal have not use much before
