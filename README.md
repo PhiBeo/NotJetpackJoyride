@@ -12,6 +12,7 @@ git clone https://github.com/The-Odd-Institute/NotJetpackJoyride.git
 
   OR
 - [Download](https://github.com/The-Odd-Institute/NotJetpackJoyride/archive/refs/heads/main.zip) the repository
+- Folder to open and start: Scenes -> 00_Menu
   ### Packages for my parts
   - Authentication
   - Leaderboards
@@ -29,7 +30,9 @@ git clone https://github.com/The-Odd-Institute/NotJetpackJoyride.git
 - Player will be sign-in anonymous since there are no data transfering system in the current state
 - It will give a random name which can be update using UpdateName method
 
-![Profile](NotJetpackJoyrideProject/Assets/Sprites/Profile.gif)
+<p align="center">
+  <img src="NotJetpackJoyrideProject/Assets/Sprites/Profile.gif" width="720">
+</p>
 
 ## Leaderboard system/UI:
 - Using Unity's Leaderboards Package
@@ -41,13 +44,24 @@ git clone https://github.com/The-Odd-Institute/NotJetpackJoyride.git
 - Those prefab objects will be instantiate and then change according to the top players from a list
 
 ### The player score before the update
-![Leaderboard before change](NotJetpackJoyrideProject/Assets/Sprites/Leaderboard_Before.gif)
+<p align="center">
+  <img src="NotJetpackJoyrideProject/Assets/Sprites/Leaderboard_Before.gif" width="720">
+</p>
+
+
 
 ### Player's score will be update if their score is higher than the previous highest score and store it on Cloud
-![Leaderboard after change](NotJetpackJoyrideProject/Assets/Sprites/Leaderboard_After.gif)
+<p align="center">
+  <img src="NotJetpackJoyrideProject/Assets/Sprites/Leaderboard_After.gif" width="720">
+</p>
+
+
 
 ### Player's information like ID, highest score, metadata will be store and display for easier observe and adjust
-![Unity Cloud](NotJetpackJoyrideProject/Assets/Sprites/Leaderboard_On_Cloud.png)
+<p align="center">
+  <img src="NotJetpackJoyrideProject/Assets/Sprites/Leaderboard_On_Cloud.png" width="720">
+</p>
+
 
 
 ## Local save and load system:
